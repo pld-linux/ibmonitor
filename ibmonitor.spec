@@ -3,7 +3,7 @@ Summary(pl):	Interaktywny monitor wykorzystania pasma
 Name:		ibmonitor
 Version:	1.3
 Release:	1
-License:	GPL
+License:	GPL v2+
 Group:		Applications/Networking
 Source0:	http://dl.sourceforge.net/ibmonitor/%{name}-%{version}.tar.gz
 # Source0-md5:	6f37ee0b00b62822823cdbabc9d7419e
@@ -67,5 +67,5 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%doc AUTHORS COPYING ChangeLog README TODO
+%doc AUTHORS ChangeLog README TODO
 %attr(755,root,root) %{_bindir}/*
