@@ -13,8 +13,24 @@ Requires:	perl-Time-HiRes
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
+ibmonitor is an interactive linux console application which shows
+bandwidth consumed and total data transferred on all interfaces.
 
-%description -l pl
+Its main features are:
+
+    - Shows received, transmitted and total bandwidth of each interface
+    - Calculates and displays the combined value of all interfaces
+    - Displays total data transferred per interface in KB/MB/GB
+    - Values can be displayed in Kbits/sec(Kbps) and/or KBytes/sec(KBps)
+    - Can show maximum bandwidth consumed on each interface since start of
+      utility
+    - Can show average bandwidth consumption on each interface since start
+      of utility
+    - The output with all features (max, avg and display in Kbps and KBps)
+      easily fits on a 80x24 console or xterm
+    - Can interactively change its output display format depending on key
+      pressed by user.
+
 
 %prep
 %setup -q -n %{name}
