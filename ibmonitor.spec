@@ -5,7 +5,7 @@ Version:	1.3
 Release:	1
 License:	GPL v2+
 Group:		Applications/Networking
-Source0:	http://heanet.dl.sourceforge.net/ibmonitor/%{name}-%{version}.tar.gz
+Source0:	http://dl.sourceforge.net/ibmonitor/%{name}-%{version}.tar.gz
 # Source0-md5:	6f37ee0b00b62822823cdbabc9d7419e
 URL:		http://ibmonitor.sourceforge.net/
 Requires:	perl-Term-ANSIColor
