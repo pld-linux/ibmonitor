@@ -1,5 +1,5 @@
 Summary:	Interactive Bandwidth Monitor
-Summary(pl):	Interaktywny monitor wykorzystania pasma
+Summary(pl.UTF-8):   Interaktywny monitor wykorzystania pasma
 Name:		ibmonitor
 Version:	1.3
 Release:	1
@@ -31,26 +31,26 @@ Its main features are:
 - Can interactively change its output display format depending on key
   pressed by user.
 
-%description -l pl
-ibmonitor to interaktywna aplikacja terminalowa dla Linuksa pokazuj±ca
-zu¿ywane pasmo i ³±czn± ilo¶æ danych przes³anych przez wszystkie
+%description -l pl.UTF-8
+ibmonitor to interaktywna aplikacja terminalowa dla Linuksa pokazujÄ…ca
+zuÅ¼ywane pasmo i Å‚Ä…cznÄ… iloÅ›Ä‡ danych przesÅ‚anych przez wszystkie
 interfejsy.
 
-G³ówne mo¿liwo¶ci to:
-- pokazywanie otrzymanego i przes³anego i ca³kowitego pasma ka¿dego
+GÅ‚Ã³wne moÅ¼liwoÅ›ci to:
+- pokazywanie otrzymanego i przesÅ‚anego i caÅ‚kowitego pasma kaÅ¼dego
   interfejsu
-- obliczanie i wy¶wietlanie ³±czonych warto¶ci wszystkich interfejsów
-- wy¶wietlanie ca³kowitej ilo¶ci danych przes³anych przez ka¿dy
+- obliczanie i wyÅ›wietlanie Å‚Ä…czonych wartoÅ›ci wszystkich interfejsÃ³w
+- wyÅ›wietlanie caÅ‚kowitej iloÅ›ci danych przesÅ‚anych przez kaÅ¼dy
   interfejs w KB/MB/GB
-- wy¶wietlanie warto¶ci w kilobitach/sekundê (Kbps) i/lub
-  kilobajtach/sekundê (KBps)
-- pokazywanie maksymalnego pasma zu¿ytego na ka¿dym interfejsie od
+- wyÅ›wietlanie wartoÅ›ci w kilobitach/sekundÄ™ (Kbps) i/lub
+  kilobajtach/sekundÄ™ (KBps)
+- pokazywanie maksymalnego pasma zuÅ¼ytego na kaÅ¼dym interfejsie od
   uruchomienia programu
-- pokazywanie ¶redniego pasma zu¿ytego na ka¿dym interfejsie od
+- pokazywanie Å›redniego pasma zuÅ¼ytego na kaÅ¼dym interfejsie od
   uruchomienia programu
-- wyj¶cie ze wszystkimi opcjami (maksimum, ¶rednia, wy¶wietlanie w
-  Kbps i KBps) z ³atwo¶ci± mieszcz±ce siê na konsoli lub xtermie 80x24
-- mo¿liwo¶æ interaktywnej zmiany formatu wy¶wietlania za pomoc±
+- wyjÅ›cie ze wszystkimi opcjami (maksimum, Å›rednia, wyÅ›wietlanie w
+  Kbps i KBps) z Å‚atwoÅ›ciÄ… mieszczÄ…ce siÄ™ na konsoli lub xtermie 80x24
+- moÅ¼liwoÅ›Ä‡ interaktywnej zmiany formatu wyÅ›wietlania za pomocÄ…
   klawiszy.
 
 %prep
