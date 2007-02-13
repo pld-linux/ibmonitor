@@ -1,5 +1,5 @@
 Summary:	Interactive Bandwidth Monitor
-Summary(pl.UTF-8):   Interaktywny monitor wykorzystania pasma
+Summary(pl.UTF-8):	Interaktywny monitor wykorzystania pasma
 Name:		ibmonitor
 Version:	1.3
 Release:	1
