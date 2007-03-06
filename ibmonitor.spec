@@ -1,12 +1,12 @@
 Summary:	Interactive Bandwidth Monitor
 Summary(pl.UTF-8):	Interaktywny monitor wykorzystania pasma
 Name:		ibmonitor
-Version:	1.3
+Version:	1.4
 Release:	1
 License:	GPL v2+
 Group:		Applications/Networking
 Source0:	http://dl.sourceforge.net/ibmonitor/%{name}-%{version}.tar.gz
-# Source0-md5:	6f37ee0b00b62822823cdbabc9d7419e
+# Source0-md5:	b8522eda27381b4e65eed12bffd8adcd
 URL:		http://ibmonitor.sourceforge.net/
 Requires:	perl-Term-ANSIColor
 Requires:	perl-Term-ReadKey
